@@ -2,7 +2,7 @@
 
 [<img align="left" alt="almeida-matheus | Drive" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/googledrive.svg" />][drive]
 [<img align="left" alt="almeida-matheus | LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="almeida-matheus | Gmail" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg" />][gmail]
+[<img align="left" alt="almeida-matheus | Telegram" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/telegram.svg" />][gmail]
 [<img align="left" alt="almeida-matheus | Instagram" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="almeida-matheus | Steam" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/steam.svg" />][steam]
 
